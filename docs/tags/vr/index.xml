@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on tsukumaru&#39;s Website</title>
+    <link>https://tsukumaru.github.io/tags/vr/</link>
+    <description>Recent content in VR on tsukumaru&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tsukumaru.github.io/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>360°爆買いVR</title>
+      <link>https://tsukumaru.github.io/projects/creations/bakugai-vr/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/creations/bakugai-vr/</guid>
+      <description>VRアカデミーというスクールに通いながら開発したVRゲームです。Unityを使って全て一人で開発しました。VRという環境を活かし「自分が向いている方向が一番大きく声が聞こえる」ようにし、聞こえてくるセール情報を聞きながら安い商品を探して爆買いするというゲームになっています。音周りの制御にはWWiseを使用し、セールの時間制限や全体のイベント制御にはUniRxも使っています。
+未リリースのため、遊んでいただくことはできませんが、過去にはVRフェスや、Ropping.unity#1でも展示を行い、実際に体験していただきました。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

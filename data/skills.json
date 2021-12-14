@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Web Development",
+      "skills":[ "Perl","JavaScript","Vue.js","Go","Python","MySQL", "AWS"]
+  },
+  {
+    "grouping":"3DCG",
+    "skills":["Unity","Maya","GLSL","Photoshop","Substance Painter","Houdini"]
+  },
+  {
+    "grouping":"Management",
+    "skills":["Project Management","People Management"]
+  }
+]

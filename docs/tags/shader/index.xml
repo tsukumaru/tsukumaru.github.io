@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shader on tsukumaru&#39;s Website</title>
+    <link>https://tsukumaru.github.io/tags/shader/</link>
+    <description>Recent content in Shader on tsukumaru&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tsukumaru.github.io/tags/shader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microbes Plaid</title>
+      <link>https://tsukumaru.github.io/projects/creations/microbesplaid/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/creations/microbesplaid/</guid>
+      <description>Tokyo Demo Fest 2021(TDF2021) の GLSL Graphics Compo に提出した作品です。GLSLを使って作成しました。GLSLを学び始めたばかりの状態から初めて作った作品でしたが、fBMやディスタンスフィールドといった手法を理解することができました。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on tsukumaru&#39;s Website</title>
+    <link>https://tsukumaru.github.io/</link>
+    <description>Recent content in Home on tsukumaru&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://tsukumaru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://tsukumaru.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>会社ブログでの投稿記事一覧</title>
+      <link>https://tsukumaru.github.io/publications/qiita/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/publications/qiita/</guid>
+      <description> 目的と技術に向き合う。その心は、楽しさのため｜モバファクエンジニア座談会(2021/10/01) 評価エラーを防ぐための「行動メモ」(2020/12/10) チームの振り返りのファシリテーションで気をつけていることベスト5(2019/12/21) 社内勉強会でマネージャー向けカードゲーム会を行いました(2019/03/28) 初めての新人育成から学んだこと(2018/12/25)  </description>
+    </item>
+    
+    <item>
+      <title>会社ブログでの投稿記事一覧</title>
+      <link>https://tsukumaru.github.io/publications/techblog/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/publications/techblog/</guid>
+      <description> 目的と技術に向き合う。その心は、楽しさのため｜モバファクエンジニア座談会(2021/10/01) 評価エラーを防ぐための「行動メモ」(2020/12/10) チームの振り返りのファシリテーションで気をつけていることベスト5(2019/12/21) 社内勉強会でマネージャー向けカードゲーム会を行いました(2019/03/28) 初めての新人育成から学んだこと(2018/12/25)  </description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://tsukumaru.github.io/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://tsukumaru.github.io/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Microbes Plaid</title>
+      <link>https://tsukumaru.github.io/projects/creations/microbesplaid/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/creations/microbesplaid/</guid>
+      <description>Tokyo Demo Fest 2021(TDF2021) の GLSL Graphics Compo に提出した作品です。GLSLを使って作成しました。GLSLを学び始めたばかりの状態から初めて作った作品でしたが、fBMやディスタンスフィールドといった手法を理解することができました。
+  </description>
+    </item>
+    
+    <item>
+      <title>360°爆買いVR</title>
+      <link>https://tsukumaru.github.io/projects/creations/bakugai-vr/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/projects/creations/bakugai-vr/</guid>
+      <description>VRアカデミーというスクールに通いながら開発したVRゲームです。Unityを使って全て一人で開発しました。VRという環境を活かし「自分が向いている方向が一番大きく声が聞こえる」ようにし、聞こえてくるセール情報を聞きながら安い商品を探して爆買いするというゲームになっています。音周りの制御にはWWiseを使用し、セールの時間制限や全体のイベント制御にはUniRxも使っています。
+未リリースのため、遊んでいただくことはできませんが、過去にはVRフェスや、Ropping.unity#1でも展示を行い、実際に体験していただきました。
+  </description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://tsukumaru.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://tsukumaru.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsukumaru.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
